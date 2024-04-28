@@ -1,4 +1,4 @@
-### Hi There, I'm Kuffour Emmanuel Osei
+### Hi There, I'm Osei Kuffour Emmanuel
 
 I am an aspiring Software Engineer from Ghana. Though I am currently learning fullstack software engineering, my main focus will be on backend development and frameworks. I’m currently learning **Software Engineering with ALX**
 
